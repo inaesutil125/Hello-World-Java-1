@@ -16,6 +16,8 @@ package helloworld;
  *
  * PARA EXECUTAR:
  * java -cp bin helloworld.HelloWorld
+ * 
+ * Uma alteracao desncessaria.
  */
 public class HelloWorld {
 	public static void main(String[] args) {
